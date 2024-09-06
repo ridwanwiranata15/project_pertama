@@ -586,6 +586,10 @@ video {
   display: none;
 }
 
+.w-9 {
+  width: 2.25rem;
+}
+
 .border-collapse {
   border-collapse: collapse;
 }
@@ -608,4 +612,8 @@ video {
 
 .outline {
   outline-style: solid;
+}
+
+.\[w\:R\FFFD-\] {
+  w: R�-;
 }
